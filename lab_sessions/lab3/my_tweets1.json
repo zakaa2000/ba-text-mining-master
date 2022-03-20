@@ -1,0 +1,205 @@
+{
+    "1": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The cybersecurity industry is so very embarrassing.",
+        "tweet_url": "https://mobile.twitter.com/GossiTheDog/status/1497899214637912066?cxt=HHwWhMCi3cjZzckpAAAA " },
+
+    "2": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "This is Donut. He wanted to pop out and say hi. Wondering where your personal chauffeur is. Said you can borrow his, if you'd like. 13/10",
+        "tweet_url": "https://mobile.twitter.com/dog_rates/status/1496265582550863879?cxt=HHwWjsCymdXn5sMpAAAA "},
+
+    "3": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Ukraine’s ambassador to the US just told us that a Russian platoon from the 74th Motorized Brigade has surrendered to Ukraine’s forces. She says that the Russian troops apparently had been unaware they were being sent to kill Ukrainians. No confirmation yet from Russia’s military",
+        "tweet_url": "https://mobile.twitter.com/JoshNBCNews/status/1496884570716835840?cxt=HHwWgMC4tcKlgMYpAAAA "},
+
+    "4": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Long lines formed at a bus station in Kyiv after Russian attacks were launched across Ukraine. Residents waited in line for up to an hour to buy fuel. The city’s main airport was bombed and its major roads were jammed with traffic as people fled.",
+        "tweet_url": "https://mobile.twitter.com/nytimes/status/1496814689325654016?cxt=HHwWgIC9vfHB4MUpAAAA"},
+    "5": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Media Spreads Misinformation On Joe Rogan To Prevent Him From Spreading Misinformation",
+        "tweet_url": "https://mobile.twitter.com/TheBabylonBee/status/1490803206523338755?cxt=HHwWhoCyrcTnsrApAAAA"},
+    "6": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "As you noticed no stream today. On my way to Poland to get to the Ukrainian border and get some refugees to Sweden.",
+        "tweet_url": "https://mobile.twitter.com/Qullamaggie/status/1499814429038424067"},
+    "7": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "This man drove to Poland from DENMARK to help Ukrainian women and children. He said he is going back with six people, whom he will help settle in a new country, over 2000 km. away from home. “Putin is a dictator, and we don’t like that in Denmark,” he said.",
+        "tweet_url": "https://mobile.twitter.com/lapatina_/status/1499411581813374982"},
+    "8": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "sometimes i remember all those private qrts i’ve gotten on my popular tweets and a lot of them are most likely talking shit about me. that’s wild to think about",
+        "tweet_url": "https://mobile.twitter.com/EASEFORALL/status/1500344726511243267"},
+    "9": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I’m slowly doing a BIG archival of posts from over 13 years ago. The most memorable / popular posts. It’s a process. Thank you for adding me, remember that I am very much actively posting CURRENT stuff +  I put JDM under umbrella “MIVIDA JDM”",
+        "tweet_url": " https://mobile.twitter.com/mividajdmtweets/status/1500475190215688199"},
+    "10": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "ata from the #Sentinel5P satellite are being used to detect emission hotspots in various regions, identifying #methane concentrations and locating exact facilities leaking methane",
+        "tweet_url": "https://mobile.twitter.com/esa/status/1267724418433851392"},
+    "11": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "in 2017, Dorothy Vaughan, Katherine Johnson, and Mary Jackson, African-American women whose mathematical contributions made landing on the Moon possible, were inducted into the Langley Hall of Honor. Read more about their legacy below:",
+        "tweet_url": "https://mobile.twitter.com/NASAhistory/status/1267531363017723904"},
+    "12": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Study shows seven of the regions that dominate global ice mass losses are melting at an accelerated rate and are depleting freshwater resources that could potentially affect coastlines, agriculture & drinking water supplies in communities around the world. ",
+        "tweet_url": "https://mobile.twitter.com/NASAJPL/status/1267495668861399040"},
+    "13": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "One of the dangers humans face when exploring #Mars is the toxic chemicals in the soil. However, these chemicals could also be key to producing usable oxygen.",
+        "tweet_url": "https://mobile.twitter.com/DigitalTrends/status/1500478443183505409"},
+    "14": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Deciding between security cameras or video doorbells can be tough. We cover the pros and cons of installation, video coverage, and price.",
+        "tweet_url": "https://mobile.twitter.com/DigitalTrends/status/1500119327856496640"},
+    "15": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "For years you’ve heard and read the many rumors suggesting a potential return for the iconic 1980s DeLorean gullwing, stainless-steel-bodied sports-car, and 2022 looks like the year it may finally show face.",
+        "tweet_url": "https://mobile.twitter.com/MotorTrend/status/1498455494834409472"},
+    "16": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The James Carey Urban Communication Grant supports research that advances knowledge on the consequences of urban communication in and across urban societies. The grant is awarded by the Urban Communication Foundation (UCF) and co-sponsored",
+        "tweet_url": "https://mobile.twitter.com/ICAPopular"},
+    "17": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Twitter aggressively pushing ads and random popular tweets on my YL instead of letting me see the tweets of people I actually follow and it’s fucking annoying.",
+        "tweet_url": "https://mobile.twitter.com/ScaryCleve/status/1500448704129548288"},
+    "18": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "“What’s the trend of the market? If it’s negative, you’ll want to do very little, if any buying, even if you see some stocks breaking out. Your probabilities of success are quite low when the market trend is going against you.”Stan Weinstein",
+        "tweet_url": "https://mobile.twitter.com/rahuldmehta7/status/1499074907656888325"},
+    "19": {
+        "sentiment_label": "neutral/negative",
+        "text_of_tweet": "Political counterparty risk has now been attached to every Dollar and every Euro on Earth. Buy Gold while there is still physical available.",
+        "tweet_url": "https://mobile.twitter.com/TheLastDegree/status/1500450267493507075"},
+    "20": {
+        "sentiment_label": "negative/neutral",
+        "text_of_tweet": "Ran for a train today for the first time ever. My mcm better tweet “if they wanted, to they would”",
+        "tweet_url": "https://mobile.twitter.com/N3XNA/status/1500486348960063489"},
+    "21": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "My mistery: hyperglycemia, not yet diabete, low insulin level, low pep-c level, no D1 antibody, no mody, pancreas ok…no doctor has an explanation…any idea? Thanks",
+        "tweet_url": "https://twitter.com/TMLitalia/status/1499408379021770752"},
+    "22": {
+        "sentiment_label": "neutral/negative",
+        "text_of_tweet": "Events of the last two years highlight the extreme danger presented by centralization. The intellectual backing for the idea that we should have more of it rests on the notion that having more data enables better centralized decision-making. /1",
+        "tweet_url": "https://twitter.com/NickHudsonCT/status/1500368650536169475"},
+    "23": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Excellent discussion covering the intersections between COVID-19 and geopolitical crisis with Professor Isa Blumi and Jesse Zurawell. Essential listening. NOTE: It's the 4th interview down on the list, dated 1 March 2022",
+        "tweet_url": "https://twitter.com/PanData19/status/1500087790532542464"},
+    "24": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Covid modelling cannot accurately predict numbers, admits Prof Graham Medley, of the Scientific Pandemic Influenza Group on Modelling (Spi-M). I think what he means is their models are rubbish and pointless. Is it time to disband SAGE? ",
+        "tweet_url": "https://twitter.com/TonyHinton2016/status/1499398758462726148"},
+    "25": {
+        "sentiment_label": "neutral/negative",
+        "text_of_tweet": "READ: An Epidemic Of Cardiac Arrests. The official line is that the weekly reports of people collapsing in the audience of football matches are no different from normal, only in the past the matches would not have been stopped. ",
+        "tweet_url": "https://twitter.com/PanData19/status/1499328455858663437"},
+    "26": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "An opinion piece by Australian writer Alexandra Marshall on how the media has connived to keep their readers in the dark and in doing so, build into The Narrative.",
+        "tweet_url": "https://twitter.com/PanData19/status/1498625435445383172"},
+    "27": {
+        "sentiment_label": "neutral/negative",
+        "text_of_tweet": "It's precisely because masks are useless that people married to the Covid narrative will insist they remain. When you introduce a meaningless - but symbolic - policy, there's no metric or signal to remove it. Masks never worked, so they can never stop working.",
+        "tweet_url": "https://twitter.com/annbauerwriter/status/1491791526753497094"},
+    "28": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "COVID-19 is currently ensnarled in the most consequential culture war of our times. At the heart of this social flashpoint is a thorny question on the nature of freedom: what it is, who it belongs to and how to preserve it.",
+        "tweet_url": "https://twitter.com/PanData19/status/1496566244409061383"},
+    "29": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "The Canadian government complained that the truckers disrupted businesses, and now the government is now closing businesses again.",
+        "tweet_url": "https://twitter.com/MartinKulldorff/status/1495614865020436484"},
+    "30": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Some basic maths re children and covid: If 0.0013% die with covid when infected then out of 76,923 infected kids, one will die. If you need to vaccinate 200 kids to prevent one infection then you need to vaccinate 200*76,923 = 15,384,615 to prevent one covid death. Omicron...",
+        "tweet_url": "https://twitter.com/ClareCraigPath/status/1495017735469871114"},
+    "31": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Modeling is forecasting for midwits.",
+        "tweet_url": "https://twitter.com/naval/status/1492388383255154692"},
+    "32": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Kris you are an inspiration, like you said us traders are pieces of shit and don’t really add anything to society, but doing this we can atleast take part on something we believe in and help others",
+        "tweet_url": "https://twitter.com/RyanBarredo1/status/1500171516356534284"},
+    "33": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "The top for most US stocks was 1 year ago, why are you writing this stuff now (don't answer lol) Good luck",
+        "tweet_url": "https://twitter.com/Qullamaggie/status/1499455382237978632"},
+    "34": {
+        "sentiment_label": "neutral/positive",
+        "text_of_tweet": "Going on adventures in Italy next few days!",
+        "tweet_url": "https://twitter.com/Qullamaggie/status/1496821656513359873"},
+    "35": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Sir, what are your thoughts about the macroeconomical and geopolitical situation relative to the planetary movements and the underlying technicals in the market????",
+        "tweet_url": "https://twitter.com/Qullamaggie/status/1496033687749672961"},
+    "36": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Entered TQQQ this morning with a wide stop. Would like to add to my position once we get confirmation.",
+        "tweet_url": "https://twitter.com/geovanycapital/status/1497230865105141763"},
+    "37": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "I guess a scam artist decided to make a fake twitter account and impersonate me. I've already blocked the fake account, but please block as well to eliminate confusion: ",
+        "tweet_url": "https://twitter.com/geovanycapital/status/1483916870352715777"},
+    "38": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "This is a great time to build a LEADER list. Through your own observation, identify which stocks you think are leaders, & track them for entries. Leaders are stocks that hold up the best during a pullback / correction, and often break out of their ranges prior to the indices.",
+        "tweet_url": "https://twitter.com/geovanycapital/status/1481310881929695245"},
+    "39": {
+        "sentiment_label": "neutral",
+        "text_of_tweet": "Two things I'm thinking about right now, this is as cut and dry as I can put it (1) I am looking to be patient in basic materials / energy sector for certain names to flag out and provide me an entry to take a trade (2) Searching for potential leaders to enter after we bottom",
+        "tweet_url": "https://twitter.com/geovanycapital/status/1479542115658973184"},
+    "40": {
+        "sentiment_label": "negative",
+        "text_of_tweet": "Tough question, prob would have to call a friend. Flat planet friends",
+        "tweet_url": "https://twitter.com/Afghanrebel/status/1496072494817718275"},
+    "41": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Awesome!",
+        "tweet_url": "https://twitter.com/Qullamaggie/status/1494275070214217730"},
+    "42": {
+        "sentiment_label": "positive",
+        "text_of_tweet": " giving away free Bitcoin and secret on how to double your account in 2 weeks!",
+        "tweet_url": "https://twitter.com/Qullamaggie/status/1493216277321723910"},
+    "43": {
+        "sentiment_label": "neutral/negative",
+        "text_of_tweet": "Many traders are scan collectors. they just want scans. They never spend time understanding what the scan is doing or why it is built the way it is. Just mindlessly send DM “can you send me scan”",
+        "tweet_url": "https://twitter.com/PradeepBonde/status/1492490592105996288"},
+    "44": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Have a great weekend cult!",
+        "tweet_url": "https://twitter.com/Qullamaggie/status/1492242776322453509"},
+    "45": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I'm beginning to think the cat is in charge",
+        "tweet_url": "https://twitter.com/DarvasTrading/status/1492244456187301889"},
+    "46": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "I know I use this platform for trading, but yesterday was one of the best days of my life ",
+        "tweet_url": "https://twitter.com/geovanycapital/status/1473116249215303688"},
+    "47": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "CONGRATULATIONS MAN!!! Super happy for you both",
+        "tweet_url": "https://twitter.com/geovanycapital/status/1473116249215303688"},
+    "48": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Achievement unlocked",
+        "tweet_url": "https://twitter.com/skittlekillerx/status/1500313266924527618"},
+    "49": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "Have I mentioned I'm in engaged?! Today marks exactly one month since I said yes and I couldn't be more excited!",
+        "tweet_url": "https://twitter.com/JourneyWJBlog/status/1500207018623348736"},
+    "50": {
+        "sentiment_label": "positive",
+        "text_of_tweet": "A typical day. As usual, Louie's highly tuned senses are alert and ready for any eventuality. ",
+        "tweet_url": "https://twitter.com/lynda_nicholls/status/1500477373837418507"}
+}
